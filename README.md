@@ -1,4 +1,3 @@
-
 # Sorteador Clande Open Series
 
 Sorteos aleatorio de grupos de 3 y 4 jugadores

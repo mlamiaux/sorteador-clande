@@ -1,0 +1,3 @@
+#Archivos ignorados del directorio
+/node_modules
+*.log
